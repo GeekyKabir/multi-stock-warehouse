@@ -111,7 +111,7 @@ Built on `flat_view.csv` — a pre-joined export combining all 3 warehouse table
 - KPI cards — latest closing price per company
 - Volatility table — companies ranked by average daily price range
 
-![Dashboard](dashboard_screenshot.png)
+![Dashboard](Stock_Performance_Dashboard.png)
 
 ---
 
@@ -194,7 +194,6 @@ multi-stock-warehouse/
 
 [Financial Data ETL Pipeline](https://github.com/GeekyKabir/financial-etl-pipeline) — Project 1: single-stock ETL pipeline that this project extends.
 
-![Dashboard](Stock_Performance_Dashboard.png)
 ---
 
 ## Author
