@@ -1,0 +1,6 @@
+symbol_id,symbol,company_name,sector
+1,TSLA,Tesla Inc,Consumer Discretionary
+2,AAPL,Apple Inc,Technology
+3,MSFT,Microsoft Corporation,Technology
+4,GOOGL,Alphabet Inc,Communication Services
+5,AMZN,Amazon Inc,Consumer Discretionary
