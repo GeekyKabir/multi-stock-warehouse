@@ -111,6 +111,8 @@ Built on `flat_view.csv` — a pre-joined export combining all 3 warehouse table
 - KPI cards — latest closing price per company
 - Volatility table — companies ranked by average daily price range
 
+![Dashboard](dashboard_screenshot.png)
+
 ---
 
 ## Tech Stack
